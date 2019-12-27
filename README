@@ -1,5 +1,5 @@
 執行方法 
 1. sudo apt-get install libpcap-dev
 2. make
-3. ./hw3 test.pcap
+3. ./hw3 -r test.pcap
 
